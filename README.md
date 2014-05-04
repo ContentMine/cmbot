@@ -6,7 +6,7 @@ An autonomous bot for scraping the academic literature
 
 ## Getting Started
 
-Install the module with: `npm install cmbot`
+**NOTE**: `cmbot` is not yet supposed to work. Please come back later :).
 
 _(Coming soon)_
 

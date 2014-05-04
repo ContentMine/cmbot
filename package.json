@@ -34,5 +34,9 @@
     "grunt-contrib-watch": "~0.5.3",
     "grunt": "~0.4.4"
   },
-  "keywords": []
+  "keywords": [],
+  "preferGlobal": "true",
+  "bin": {
+      "cmbot" : "lib/cmbot.js"
+  }
 }

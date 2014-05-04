@@ -1,14 +1,14 @@
-# cmbot [![Build Status](https://secure.travis-ci.org/ContentMine/cmbot.png?branch=master)](http://travis-ci.org/ContentMine/cmbot)
+# cmbot
+
+[![Build Status](https://secure.travis-ci.org/ContentMine/cmbot.png?branch=master)](http://travis-ci.org/ContentMine/cmbot)
 
 An autonomous bot for scraping the academic literature
 
 ## Getting Started
+
 Install the module with: `npm install cmbot`
 
-```javascript
-var cmbot = require('cmbot');
-cmbot.awesome(); // "awesome"
-```
+_(Coming soon)_
 
 ## Documentation
 _(Coming soon)_
@@ -17,11 +17,11 @@ _(Coming soon)_
 _(Coming soon)_
 
 ## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
+We will start accepting contributions soon. Please get in touch if you'd like to be informed when this happens: rds45@cam.ac.uk.
 
 ## Release History
 _(Nothing yet)_
 
 ## License
-Copyright (c) 2014 Richard Smith-Unna  
+Copyright (c) 2014 ContentMine.org
 Licensed under the MIT license.

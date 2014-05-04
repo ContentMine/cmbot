@@ -8,10 +8,7 @@ An autonomous bot for scraping the academic literature
 
 Install the module with: `npm install cmbot`
 
-```javascript
-var cmbot = require('cmbot');
-cmbot.awesome(); // "awesome"
-```
+_(Coming soon)_
 
 ## Documentation
 _(Coming soon)_
@@ -20,7 +17,7 @@ _(Coming soon)_
 _(Coming soon)_
 
 ## Contributing
-We will start accepting contributions soon. Please get in touch if you'd like to be informed: rds45@cam.ac.uk.
+We will start accepting contributions soon. Please get in touch if you'd like to be informed when this happens: rds45@cam.ac.uk.
 
 ## Release History
 _(Nothing yet)_
